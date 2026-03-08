@@ -1,0 +1,36 @@
+body{
+margin:0;
+font-family:Arial;
+background:#020617;
+color:white;
+text-align:center;
+}
+
+h1{
+color:#22d3ee;
+}
+
+canvas{
+background:#0f172a;
+border:2px solid #22d3ee;
+margin-top:15px;
+}
+
+button{
+background:#22d3ee;
+color:#020617;
+border:none;
+padding:12px 18px;
+margin:6px;
+border-radius:10px;
+font-weight:bold;
+}
+
+.hidden{
+display:none;
+}
+
+.topbar{
+margin-top:10px;
+font-size:18px;
+}
